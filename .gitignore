@@ -1,0 +1,10 @@
+/.idea
+/.gradle
+*.iml
+# Project exclude paths
+/build/
+/build/classes/kotlin/jvm/main/
+/build/classes/kotlin/jvm/test/
+/build/classes/kotlin/mingwX64/main/
+/build/js/packages/TerrainPrototype4/kotlin/
+/build/js/packages/TerrainPrototype4-test/kotlin/
